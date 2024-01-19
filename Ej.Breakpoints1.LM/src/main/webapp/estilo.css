@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.rojo {
+	background-color: red;
+	color: red;
+}
+
+.azul {
+	background-color: blue;
+	color: blue;
+}
+
+.verde {
+	background-color: green;
+	color: green;
+}
